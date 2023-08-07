@@ -19,6 +19,13 @@ An EDA project to anaylze the data of Uber pickups in NYC dataset which includes
 5.Visualisation
 6. Interpretation of the results
 ### Libraries
+
+ Python
+📦 SQL
+🧠 Machine Learning Algorithms
+⚡️ Agile & SCRUM
+📊 Business Intelligence
+
 Numpy
 Pandas
 Matplotlib
