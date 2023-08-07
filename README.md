@@ -7,6 +7,5 @@ In this repository, I am storing my data analysis projects which I worked with p
 ## Section 2
 ### Subsection 2.1
 ### Subsection 2.2
-[https://github.com/lilalayla/Data_Analysis_Projects/tree/main/Youtube](#Youtube)
 [Link to Section 1](#section-1)
 [Link to Subsection 1.1](#subsection-1.1)
