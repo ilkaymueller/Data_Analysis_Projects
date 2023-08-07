@@ -12,28 +12,23 @@ An EDA project to anaylze the data of Uber pickups in NYC dataset which includes
 
 ## Process and Libraries
 ### Process
-1.Data collected from Kaggle
-2.Data Cleaning
-3.Data Transformation
-4.Analyzing the data
-5.Visualisation
-6. Interpretation of the results
+ <li> 1.Data collected from Kaggle
+ <li>2.Data Cleaning
+ <li>3.Data Transformation 📦
+ <li>4.Analyzing the data ⚡️
+ <li>5.Visualisation 📊
+ <li>6. Interpretation of the results 🧠
+
 ### Libraries
 
- Python
-📦 SQL
-🧠 Machine Learning Algorithms
-⚡️ Agile & SCRUM
-📊 Business Intelligence
-
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Geopy
-Scipy
-Plotly
-Folium
+<li>Numpy
+<li>Pandas
+<li>Matplotlib
+<li>Seaborn
+<li>Geopy
+<li>Scipy
+<li>Plotly
+<li>Folium
 
 ## Features
 Here are some of the key features of the project...
