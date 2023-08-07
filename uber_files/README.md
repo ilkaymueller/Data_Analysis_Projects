@@ -13,7 +13,7 @@ An EDA project to anaylze the data of Uber pickups in NYC dataset which includes
 ## Process and Libraries
 ### Process
  <li> 1.Data collected from Kaggle
- <li>2.Data Cleaning
+ <li>2.Data Exploring/ Cleaning 🔍
  <li>3.Data Transformation 📦
  <li>4.Analyzing the data ⚡️
  <li>5.Visualisation 📊
