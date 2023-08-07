@@ -1,20 +1,20 @@
 ## Table of Contents
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
+- [Process and Libraries](#Process-and-libraries)
+  - [Process](#Process)
+  - [Libraries](#Libraries)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
-Welcome to my awesome project! This README will guide you through the setup and usage of the project.
+An EDA project to anaylze the data of Uber pickups in NYC dataset which includes information of pick ups from 2014 to 2015.
 
-## Getting Started
-### Installation
+## Process and Libraries
+### Process
 To install the project, follow these steps...
 
-### Usage
+### Libraries
 To use the project, follow these instructions...
 
 ## Features
