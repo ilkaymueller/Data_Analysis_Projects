@@ -41,7 +41,6 @@ After cleaning and transforming the data, analyzed the dataset for the following
 <li>Detecting the trends as daywise and weekwise.
 <li> Pairwise analysis for day and hour togetger
 <li> Automating the pairwise analysis for the next pairs
-<li>Created an interactive map to show rush locations on map using Folium.
 
 
 ## Geospatial Analysis
