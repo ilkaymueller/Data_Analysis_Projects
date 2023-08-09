@@ -1,5 +1,5 @@
 # Data_Analysis_Projects
-In this repository, I am storing my data analysis projects which I worked with public Kaggle datasets
+In this repository, I am storing my data analysis projects. Codes are up to date and all working fine, still most of the time maps are not displaying, do not hesitate to contact me for maps/graphs if you cannot see them.
 
 
 ## Table of Contents
