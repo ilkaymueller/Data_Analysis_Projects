@@ -4,52 +4,48 @@
   - [Process](#Process)
   - [Libraries](#Libraries)
 - [Details](#details)
-- [Geospatial Analysis](#geospatial-analysis)
 - [License](#license)
 
 ## Introduction
-An EDA project to anaylze the Covid19 data per country.
+An EDA project to anaylze the Covid19 data per country. The data includes the recoveries, deathes, number of tested people, countries.
 
 ## Process and Libraries
 ### Process
 All files for the data were in csv format. I analyzed the data with Python in Jupyter Notebook.
  <li> 1.Data collected from Kaggle
- <li>2.Data Exploring/ Cleaning 🔍
+ <li>2.Data Exploring 🔍
  <li>3.Data Transformation 📦
  <li>4.Analyzing the data ⚡️
  <li>5.Visualisation 📊
  <li>6. Interpretation of the results 🧠
 
 ### Libraries
-During the analysis, i used following libraries:
+During the analysis, I used following libraries:
 
 <li>Numpy
 <li>Pandas
 <li>Matplotlib
 <li>Seaborn
-<li>Geopy
-<li>Scipy
 <li>Plotly
-<li>Folium
-<li>h3-py
 
 ## Details
 
-After cleaning and transforming the data, analyzed the dataset for the following questions:
-<li> Which month has the most pickups? To find out the best season for Uber.
-<li> On which day/hour is the busiest? Here I tried to find the rush hour of the New York City. For that, also binned the hours for every 15 minutes to have a better understanding.
-<li>Detecting the trends as daywise and weekwise.
-<li> Pairwise analysis for day and hour togetger.
-<li> Automating the pairwise analysis for the next pairs.
+Covid dataset was relatively easy to analyze as it didn't require cleaing, was already ready to use one. I analyzed the data for:
+<li> Countries which has the most cases/recoveries/deaths/actives cases.
+<li> Covid trends for the entire world (e.g. when deaths peaked/ total cases decreased etc) 
+<li> The most effected countries.
+<li> Cases per country in different categories and top 20 countries in those categories, for example: 
+<img width="798" alt="Screenshot 2023-08-09 at 14 22 16" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/cac9bcd3-e565-4099-b29e-9488dca5c149">
 
-<img width="809" alt="Screenshot 2023-08-09 at 14 16 11" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/cee22f2c-0b2c-4262-aa3d-74d618a42526">
+Or
+
+<img width="802" alt="Screenshot 2023-08-09 at 14 20 03" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/65f0e6ac-0324-4866-ae41-d9a29b0554e0">
 
 
-  
-## Geospatial Analysis
+<li> Also, per country automations, for example:
 
-<li>Created an interactive map to show rush locations on map using Folium.
-<li> In the Choropleth notebook, created a Choropleth hexagon map using geojson and h3-py.
+<img width="809" alt="Screenshot 2023-08-09 at 14 21 12" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/085f5099-4e27-478b-9b93-b4551c376785">
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
