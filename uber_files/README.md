@@ -46,7 +46,9 @@ After cleaning and transforming the data, analyzed the dataset for the following
 ## Geospatial Analysis
 
 <li>Created an interactive map to show rush locations on map using Folium.
-<li> In the Choropleth notebook, created a Choropleth hexagon map using geojson and h3-py.
+<li> In the Choropleth notebook which is advanced, created a Choropleth hexagon map using geojson and h3-py, you can see below:
+
+<img width="818" alt="Screenshot 2023-08-10 at 15 14 58" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/943e1bac-e162-4bee-98af-c3bd62ab4091">
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
