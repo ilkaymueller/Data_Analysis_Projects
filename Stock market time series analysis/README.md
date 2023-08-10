@@ -39,7 +39,7 @@ Time Series Analysis for stock market prices. Sampled the 4 big companies' price
 <li> Daily returns of Apple stocks and resampling the Apple data montly and yearly basis to have more insights to detect the trends.
 <img width="817" alt="Screenshot 2023-08-10 at 10 55 56" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/cdf92d78-ae7c-4abd-98b1-c3bed97601d4">
 
-<li> Checking the correlation between the closing prices of these 4 companies and used the basic map below to build further graphs for deeper understanding.
+<li> Checking the correlation between the closing prices of these 4 companies and used the basic map below to build further graphs.
 
   <img width="597" alt="Screenshot 2023-08-10 at 10 53 33" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/d26d7d1c-5906-4579-b365-dee01837288a">
 
