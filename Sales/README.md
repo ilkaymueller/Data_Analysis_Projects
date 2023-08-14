@@ -10,7 +10,7 @@ Data Analysis project for an online orders dataset.
 
 ## Process and Libraries
 ### Process
-All files for the data were in csv format. I analyzed the data with Python in Jupyter Notebook.
+Data was in a feather format. I analyzed the data with Python in Jupyter Notebook.
  <li> 1.Data collected
  <li>2.Data Exploring/Cleaning 🔍
  <li>3.Data Transformation 📦
@@ -32,8 +32,10 @@ Dataset with a relatively small number columns, therefore not really a detailed 
 <li> Best month for sales.
 <li> City with the highest number of orders.(city for potential marketing targets)
 <li> The most sold products and their trends over months.
-  <img width="608" alt="Screenshot 2023-08-09 at 14 44 49" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/eb8dcffc-3ee5-4c55-8713-19a546f5ea56">
 
+<img width="608" alt="Screenshot 2023-08-09 at 14 44 49" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/704ca6e5-2912-4a45-9c39-2b28d0f2a4d0">
+
+ 
 <li> Products usually sold together.
 
 
