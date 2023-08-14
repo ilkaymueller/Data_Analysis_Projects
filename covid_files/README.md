@@ -30,21 +30,24 @@ During the analysis, I used following libraries:
 
 ## Details
 
-Covid dataset was relatively easy to analyze as it didn't require cleaing, was already ready to use one. I analyzed the data for:
+Covid dataset was relatively small and  it didn't require cleaing, was already ready to use one. I analyzed the data for:
 <li> Countries which has the most cases/recoveries/deaths/actives cases.
 <li> Covid trends for the entire world (e.g. when deaths peaked/ total cases decreased etc) 
 <li> The most effected countries.
 <li> Cases per country in different categories and top 20 countries in those categories, for example: 
-<img width="798" alt="Screenshot 2023-08-09 at 14 22 16" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/cac9bcd3-e565-4099-b29e-9488dca5c149">
+
+  <img width="798" alt="covid1" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/5284dfc5-7963-477e-9b37-3eea002dba0b">
+
+
 
 Or
 
-<img width="802" alt="Screenshot 2023-08-09 at 14 20 03" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/65f0e6ac-0324-4866-ae41-d9a29b0554e0">
 
+ <img width="802" alt="covid2" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/b32f82ec-5025-48df-9dd1-2e3053cd1ebd">
 
 <li> Also, per country automations, for example:
 
-<img width="809" alt="Screenshot 2023-08-09 at 14 21 12" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/085f5099-4e27-478b-9b93-b4551c376785">
+<img width="809" alt="covid3" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/a1156f02-0578-4ab1-bcae-7ee340c30a18">
 
 
 ## License
