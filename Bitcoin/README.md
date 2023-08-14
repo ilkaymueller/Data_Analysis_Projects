@@ -33,11 +33,11 @@ During the analysis, I used following libraries:
 Bitcoin dataset includes prices changes over time analyzed basically for the following:
 <li> Analyzing the price over time, illustrate with candlestick and it is interactive rangeslider:
   
-  <img width="792" alt="Screenshot 2023-08-10 at 15 03 46" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/4fed5651-7134-4113-9b6e-c32e324788a1">
+<img width="792" alt="Screenshot 2023-08-10 at 15 03 46" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/7c860804-f505-4282-9b02-ce01f79a762c">
 
 <li> Using log scaling for the price comparison
 
-<img width="824" alt="Screenshot 2023-08-10 at 15 06 58" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/76e37057-d3e1-432f-b640-295b3918f414">
+<img width="824" alt="Screenshot 2023-08-10 at 15 06 58" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/478e4418-e76b-4e95-b54b-5ff6e9fe9ef8">
 
 
 
