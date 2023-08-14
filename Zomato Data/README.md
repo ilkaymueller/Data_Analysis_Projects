@@ -42,7 +42,10 @@ Zomato dataset gives chance for different approaches as it includes variety of d
 
 
 <li>Showing restaurants in an interactive map-here I used Folium map.
-<li> An example map for finding certain type of cuisines-in my example it is North Indian cuisine and then automated the map for all cuisines in the dataset.
+<li> An example map for finding certain type of cuisines-in my example it is North Indian cuisine and then automated the map for all cuisines in the dataset. For example below visualization is for Mexican cuisine :
+
+<img width="1086" alt="Screenshot 2023-08-14 at 13 43 50" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/12435d87-141f-4be7-bbf6-7f51287611c5">
+
 
 In the second notebook which is little more advanced, I used deep learning libraries along with the others. In detail: 
 <li>Restaurants with most outlets.
@@ -57,5 +60,6 @@ In the second notebook which is little more advanced, I used deep learning libra
 <li>Best budget resturants in the given location, showing on interactive map, automated
 <li>Foodie areas and most common cuisines in the given location, again on folium map and automated
 
-The second notebook is still on going, current one is not pushed as there is a server problem(500) in geopy nominatim at the moment.
+<img width="982" alt="zomato,advanced" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/bb3238ac-6e3b-4500-add6-2c885c5b5cc4">
 
+The second notebook is still on going.
