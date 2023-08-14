@@ -35,7 +35,7 @@ During the analysis, i used following libraries:
 In this project, I analyzed youtube comments, likes, origin countries and category of videos, including:
 <li> Sentiment analysis in reviews using TextBlob and WordCloud.
 
-<img width="421" alt="Screenshot 2023-08-07 at 16 16 36" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/b4d9493f-f55f-44aa-a5a9-0f33a50af3d1">
+  <img width="421" alt="Screenshot 2023-08-07 at 16 16 36" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/b4d9493f-f55f-44aa-a5a9-0f33a50af3d1">
 
   
 <li> Most used emojis.
