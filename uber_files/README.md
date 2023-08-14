@@ -40,6 +40,10 @@ After cleaning and transforming the data, analyzed the dataset for the following
 <li> On which day/hour is the busiest? Here I tried to find the rush hour of the New York City. For that, also binned the hours for every 15 minutes to have a better understanding.
 <li>Detecting the trends as daywise and weekwise.
 <li> Pairwise analysis for day and hour togetger.
+
+
+  <img width="883" alt="uber_nyc_daytime" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/05a3d2e2-40d8-4bfc-97ef-3669cd62e351">
+
 <li> Automating the pairwise analysis for the next pairs.
 
 
@@ -48,7 +52,8 @@ After cleaning and transforming the data, analyzed the dataset for the following
 <li>Created an interactive map to show rush locations on map using Folium.
 <li> In the Choropleth notebook which is advanced, created a Choropleth hexagon map using geojson and h3-py, you can see below:
 
-<img width="818" alt="Screenshot 2023-08-10 at 15 14 58" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/943e1bac-e162-4bee-98af-c3bd62ab4091">
+  <img width="1001" alt="choropleth" src="https://github.com/lilalayla/Data_Analysis_Projects/assets/126274626/6ebf00be-0a55-437a-9069-7f21e1f61c64">
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
